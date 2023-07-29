@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ekachnwa
+<h2>👋 Hi, I’m @ekachnwa</h2>
 <img src="https://github.com/peterdtitan/peterdtitan/blob/main/img/line.gif?raw=true">
 <h3>I'm a Web Developer 😄😄</h3>
   <ul>
@@ -6,7 +6,7 @@
     <li>🌱 I’m currently learning C with ALX</li>
     <li>💞️ I’m looking to collaborate with other software developers and Open Source Projects</li>
   </ul>
-<hr style="width: 1px; background-color: blue;">
+<img src="https://github.com/peterdtitan/peterdtitan/blob/main/img/line.gif?raw=true">
 - ⚡ Fun fact: I love playing video games and travelling 😻
 
 <!---
