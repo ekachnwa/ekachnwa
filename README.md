@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @ekachnwa
-<hr>
+<hr style="width: 1px; background-color: blue;">
 <h3>I'm a Web Developer 😄😄</h3>
   <ul>
     <li>👀 I’m interested in AI and Web3</li>
     <li>🌱 I’m currently learning C with ALX</li>
     <li>💞️ I’m looking to collaborate with other software developers and Open Source Projects</li>
   </ul>
-<hr>
+<hr style="width: 1px; background-color: blue;">
 - ⚡ Fun fact: I love playing video games and travelling 😻
 
 <!---
