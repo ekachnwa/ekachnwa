@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ekachnwa
 <hr>
-<b>I'm a Full-Stack Developer<b> 😄😄
+<h3>I'm a Web Developer 😄😄</h3>
   <ul>
     <li>👀 I’m interested in AI and Web3</li>
     <li>🌱 I’m currently learning C with ALX</li>
