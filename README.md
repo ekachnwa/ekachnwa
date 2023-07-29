@@ -1,5 +1,4 @@
 <h2>👋 Hi, I’m @ekachnwa</h2>
-<img src="https://github.com/peterdtitan/peterdtitan/blob/main/img/line.gif?raw=true">
 <h3>I'm a Web Developer 😄😄</h3>
   <ul>
     <li>👀 I’m interested in AI and Web3</li>
