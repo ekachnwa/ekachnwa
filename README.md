@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ekachnwa
-<hr style="color: red">
+<hr style="border-top: 1px solid red;">
 <h3>I'm a Web Developer 😄😄</h3>
   <ul>
     <li>👀 I’m interested in AI and Web3</li>
