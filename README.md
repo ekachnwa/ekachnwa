@@ -1,9 +1,12 @@
 - 👋 Hi, I’m @ekachnwa
 <hr>
 <b>I'm a Full-Stack Developer<b> 😄😄
-- 👀 I’m interested in AI, Web3, S
-- 🌱 I’m currently learning C with ALX
-- 💞️ I’m looking to collaborate with other software developers and Open Source Projects
+  <ul>
+    <li>👀 I’m interested in AI and Web3</li>
+    <li>🌱 I’m currently learning C with ALX</li>
+    <li>💞️ I’m looking to collaborate with other software developers and Open Source Projects</li>
+  </ul>
+<hr>
 - ⚡ Fun fact: I love playing video games and travelling 😻
 
 <!---
