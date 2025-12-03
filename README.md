@@ -2,7 +2,7 @@
 <h3>I'm a Web Developer 😄😄</h3>
   <ul>
     <li>👀 I’m interested in AI and Web3</li>
-    <li>🌱 I’m currently learning C with ALX</li>
+    <li>🌱 I’m currently live by learning</li>
     <li>💞️ I’m looking to collaborate with other software developers and Open Source Projects</li>
   </ul>
 <img src="https://github.com/peterdtitan/peterdtitan/blob/main/img/line.gif?raw=true">
